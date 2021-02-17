@@ -6,3 +6,12 @@
 *.so
 .DS_Store
 .settings/**
+
+# Extras for local fork: 4.1.0_patched
+.classpath
+.project
+/target/
+/.gradle/
+/build/
+/libmodels/
+/patchtest/
